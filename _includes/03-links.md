@@ -1,1 +1,1 @@
-https://www.example.com
+[Internet](http://example.com)
